@@ -1,2 +1,6 @@
 # Exclude my test folder
 **/test/
+
+# Exclude ch10 (Ch10 includes the structured programming projects that are
+# uploaded separetelly)
+**/ch10/
